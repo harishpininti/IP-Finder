@@ -6,7 +6,7 @@ Based on the given Domain Name it replies With
 
  1.Local Host name and its IP
  
- 2.IP address pf the Given Domain Name
+ 2.IP address of the Given Domain Name
  
  3.Host Status(Reachable or Unreachable)
  
