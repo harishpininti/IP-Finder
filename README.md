@@ -1,4 +1,7 @@
-# IP-Finder\
+# IP-Finder
+NOte: This One is CLI Based
+
+Next Update : Implementing the Swings 
 
 ------------------#IP Finder #-------------------------------------------------
 
